@@ -2,7 +2,9 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>お問い合わせ確認画面</title>
+  <title>
+    お問い合わせ確認画面
+  </title>
   <link rel="stylesheet" href="style.css">
   <?php
 // フォーム以外からのアクセスはリダイレクト
@@ -35,7 +37,9 @@ if (count($errors) > 0) {
 ?>
 </head>
 <body>
-  <header>お問い合わせフォーム・確認画面</header>
+  <header
+  ><h2>お問い合わせフォーム・確認画面</h2>
+</header>
 
   <div class="container">
     <aside>

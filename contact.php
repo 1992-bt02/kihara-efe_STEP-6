@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>お問い合わせフォーム</header>
+  <header><h2>お問い合わせフォーム</h2></header>
 
   <div class="container">
     <aside>
